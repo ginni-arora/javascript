@@ -20,4 +20,4 @@ let user2 = user1 //reference of user1 is stored in user2
 
 user2.name="ginni arora"
 console.log(user1.name) //ginni arora
-![](memories.j\dd38764d-aefc-cf86-6180-300fceb07b8e.svg)
+console.log(user2.name) //ginni arora
